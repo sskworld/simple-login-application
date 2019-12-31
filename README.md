@@ -1,2 +1,2 @@
-# simple-login-application
+# Simple Login Application
 React Js + Redux
